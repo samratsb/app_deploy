@@ -1,0 +1,5 @@
+[server]
+headless = true                  # Required for remote/cloud deployment.
+port = 8501                      # Default port Streamlit runs on.
+enableCORS = false               # Disable CORS for public access.
+enableXsrfProtection = false     # XSRF protection setting.

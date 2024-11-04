@@ -1,0 +1,5 @@
+altair==5.1
+streamlit==1.26
+watchdog==3.0
+openai==0.27
+python-decouple==3.8
